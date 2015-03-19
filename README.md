@@ -9,7 +9,7 @@ The database will be updated accordingly, you can find annoucments about said up
 
 For now DHC comes with two very famous pre-hashed wordlists (crack-station-human-only, rockyou.txt) ready for you to use.
 
-Enjoy.
+Happy Hacking.
     
     -----------------------------------------------------------------------------
 
