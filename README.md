@@ -23,15 +23,10 @@ Protip:
 
 Basic Usage:
 ------------
-    -----------------------------------------------------------------------------
-
-    Basic Usage: ./dhc.py [HASH]
-
-    -----------------------------------------------------------------------------
 
     Keyword & Advanced Examples!
 
-    ./dhc.py [HASH] | Uses internet resources and attempts determine a hash.
+    ./dhc.py [HASH] | Uses internet resources and attempts to determine a hash.
 
                        OR
 
