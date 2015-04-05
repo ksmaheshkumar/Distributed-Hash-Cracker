@@ -1,7 +1,6 @@
 # Distributed-Hash-Cracker
-Hash recovery utility, with a database.
-
-Designed for linux, Console based.
+- Hash recovery utility, with a database.
+- Designed for linux, Console based.
 
 WARNING!
 --------
@@ -11,6 +10,8 @@ Report a bug:
 -------------
 https://github.com/GuerrillaWarfare/Distributed-Hash-Cracker/issues
 
+Databse information:
+------------------
 An MD5 database (31GB Compressed), (64GB+ Un-compressed) of over 1 billion! carefully compiled cracked MD5 Hashes have been made available just for (DHC) which comes in the form of a *.session file. and should be placed in DHCs /core/database/ directory, unless you point the database within the source code elsewhere. (The link will be available when fully compressed/uploaded.)
 
 The database will be updated accordingly, you can find annoucments about said updates via Twitter: https://twitter.com/GuerrillaWF, In time the database will be in many other hash forms as well.
@@ -19,7 +20,7 @@ For now DHC comes with two very famous pre-hashed wordlists (crack-station-human
 
 Protip:
 -------
-- Be sure to put all *.session files in DHCs /core/database/ directory.
+- Be sure to copy all *.session files that you download/compile to DHCs /core/database/ directory.
 
 Basic Usage:
 ------------
