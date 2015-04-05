@@ -15,7 +15,7 @@ An MD5 database (31GB Compressed), (64GB+ Un-compressed) of over 1 billion! care
 
 The database will be updated accordingly, you can find annoucments about said updates via Twitter: https://twitter.com/GuerrillaWF, In time the database will be in many other hash forms as well.
 
-For now DHC comes with two very famous pre-hashed wordlists (crack-station-human-only, rockyou.txt) ready for you to use. Here: (Link to come soon.)
+For now DHC comes with two very famous pre-hashed wordlists (crack-station-human-only, rockyou.txt) ready for you to use. Here: https://mega.co.nz/#!q9EkESZB!8_KbAIOHG4YE1zjMIUYDDaI0aTAaoL3_kPdZh_0NhdM
 
 Happy Hacking.
     
