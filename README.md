@@ -17,6 +17,12 @@ The database will be updated accordingly, you can find annoucments about said up
 
 For now DHC comes with two very famous pre-hashed wordlists (crack-station-human-only, rockyou.txt) ready for you to use. (2.66GB) Here: https://mega.co.nz/#!q9EkESZB!8_KbAIOHG4YE1zjMIUYDDaI0aTAaoL3_kPdZh_0NhdM
 
+Protip:
+-------
+- Be sure to put all *.session files in DHCs /core/database/ directory.
+
+Basic Usage:
+------------
     -----------------------------------------------------------------------------
 
     Basic Usage: ./dhc.py [HASH]
@@ -68,12 +74,12 @@ For now DHC comes with two very famous pre-hashed wordlists (crack-station-human
     sha384
     sha512
 
-Guerrilla Warfare Free License ("GWFL") v1.0
+Guerrilla Warfare Free License ("GWFL"):
 
 1. You're free to modify this software to YOUR liking or leave it as is.
 
 2. This software comes as is, and may or may not receive any additional updates, Contact the developer for more help.
 
-3. The initial download and use of this software constitutes that you adhere and comply to the writing of this user agreement.
+3. The initial download and use of this software constitutes that you adhere and comply to the writing of this end user license agreement (EULA).
 
 4. The Developer is NOT at ALL under any circumstances responsible for YOUR actions or the actions of any other third part instances that may use this software for any illegal or nefarious activities.
