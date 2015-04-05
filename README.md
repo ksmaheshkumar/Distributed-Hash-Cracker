@@ -11,14 +11,12 @@ Report a bug:
 -------------
 https://github.com/GuerrillaWarfare/Distributed-Hash-Cracker/issues
 
-An MD5 database (31GB Compressed), (64GB+ Un-compressed) of over 1 billion! carefully compiled cracked MD5 Hashes have been made available just for (DHC) which comes in the form of a *.session file. and should be placed in DHCs /core/database/ directory, unless you point the database within the source code elsewhere. (The link will be ready when the compressed file is fully uploaded.)
+An MD5 database (31GB Compressed), (64GB+ Un-compressed) of over 1 billion! carefully compiled cracked MD5 Hashes have been made available just for (DHC) which comes in the form of a *.session file. and should be placed in DHCs /core/database/ directory, unless you point the database within the source code elsewhere. (The link will be available when fully compressed/uploaded.)
 
 The database will be updated accordingly, you can find annoucments about said updates via Twitter: https://twitter.com/GuerrillaWF, In time the database will be in many other hash forms as well.
 
-For now DHC comes with two very famous pre-hashed wordlists (crack-station-human-only, rockyou.txt) ready for you to use. Here: https://mega.co.nz/#!q9EkESZB!8_KbAIOHG4YE1zjMIUYDDaI0aTAaoL3_kPdZh_0NhdM
+For now DHC comes with two very famous pre-hashed wordlists (crack-station-human-only, rockyou.txt) ready for you to use. (2.66GB) Here: https://mega.co.nz/#!q9EkESZB!8_KbAIOHG4YE1zjMIUYDDaI0aTAaoL3_kPdZh_0NhdM
 
-Happy Hacking.
-    
     -----------------------------------------------------------------------------
 
     Basic Usage: ./dhc.py [HASH]
@@ -69,9 +67,6 @@ Happy Hacking.
     sha224
     sha384
     sha512
-    
-    [WARNING!]: There's a rate limit when using some internet resources, use a proxy after rate limiting kicks in.
-    
 
 Guerrilla Warfare Free License ("GWFL") v1.0
 
